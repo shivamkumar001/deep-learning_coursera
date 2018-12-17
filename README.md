@@ -8,3 +8,5 @@ This repo is my own of the deeplearning.ai course on coursera
 
 
 If you want to learn something new , then this repo  is for you
+
+TO learn from coursera https://www.coursera.org/
